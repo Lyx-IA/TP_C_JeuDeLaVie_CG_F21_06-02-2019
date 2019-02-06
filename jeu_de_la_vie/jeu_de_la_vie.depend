@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1549465697 source:c:\users\lyxia\documents\projet_code_blocks\jeu_de_la_vie\cellules.c
+	<stdio.h>
+	<stdlib.h>
+	"prototypes.h"
+
+1549465720 c:\users\lyxia\documents\projet_code_blocks\jeu_de_la_vie\prototypes.h
+
+1549466130 source:c:\users\lyxia\documents\projet_code_blocks\jeu_de_la_vie\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototypes.h"
+
